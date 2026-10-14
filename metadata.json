@@ -1,0 +1,6 @@
+{
+  "name": "Surya Taman - Jasa Desain & Pembuatan Taman Profesional",
+  "description": "Website resmi Surya Taman - Jasa lanskap profesional, pembuatan taman minimalis, taman vertikal, dan perawatan taman di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
